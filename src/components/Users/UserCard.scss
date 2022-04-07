@@ -1,0 +1,11 @@
+@use "../../index.scss";
+.user-card {
+	background-color: var(--main-color);
+	width: 100%;
+	padding: 1rem;
+	margin-bottom: 1rem;
+	h4 {
+		margin: 0;
+		color: var(--white);
+	}
+}

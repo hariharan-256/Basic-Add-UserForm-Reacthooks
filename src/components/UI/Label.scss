@@ -1,0 +1,9 @@
+@use "../../index.scss";
+label {
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: 600;
+	margin-bottom: 0.4rem;
+	display: inline-block;
+	color: var(--main-color);
+}
